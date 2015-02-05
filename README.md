@@ -1,4 +1,4 @@
-# RubyWmata
+# RubyWmata [![Code Climate](https://codeclimate.com/github/bennacer860/ruby_wmata/badges/gpa.svg)](https://codeclimate.com/github/bennacer860/ruby_wmata)
 
 TODO: Write a gem description
 
