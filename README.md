@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-You will need to get your own api_key from [here](http://developer.wmata.com)
+You will need to get your own api_key from [here](https://developer.wmata.com/demokey)
 Setup you api key first
 
 ```ruby
@@ -52,7 +52,7 @@ WMATA.train_path("A01","A15")
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/ruby_wmata/fork )
+1. Fork it ( https://github.com/[bennacer860]/ruby_wmata/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
