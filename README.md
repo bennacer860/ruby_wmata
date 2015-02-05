@@ -35,7 +35,7 @@ WMATA.next_trains("A01")
 In this case we have used the station name code as argument, you can determine the code for each station by making a simple code on a specific line
 
 ```ruby
-WMATA.train_station("RD")
+WMATA.train_stations("RD")
 ```
 
 In this case 'RD' is the code name for the 'red line', you can find all those line code name by making a simple call
