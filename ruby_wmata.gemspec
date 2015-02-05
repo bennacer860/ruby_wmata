@@ -6,7 +6,7 @@ require 'ruby_wmata/version'
 Gem::Specification.new do |spec|
   spec.name          = "ruby_wmata"
   spec.version       = RubyWmata::VERSION
-  spec.authors       = ["bennacer860"]
+  spec.authors       = ["Rafik Bennacer"]
   spec.email         = ["bennacer860@gmail.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
